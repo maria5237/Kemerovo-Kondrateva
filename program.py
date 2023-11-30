@@ -1,7 +1,7 @@
 def main():
     print('My first git program')
     print("hI")
-    print("From GetHub")
+    print("From GitHub")
 
 
 if __name__ == '__main__':
